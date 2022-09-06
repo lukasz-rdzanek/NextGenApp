@@ -1,3 +1,3 @@
 # NextGenApp
 
-Recruitment task from Coupon Follow
+Recruitment task from NextGen Coupon Follow
