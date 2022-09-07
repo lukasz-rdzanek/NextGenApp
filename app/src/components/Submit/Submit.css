@@ -1,0 +1,15 @@
+.submit {
+    background: var(--buttonBackground);
+    border: none;
+    color: var(--buttonColor);
+    margin: 20px 0;
+    padding: 15px 10px;
+    width: 40%;
+}
+
+.submit:hover {
+    background: var(--buttonColor);
+    border: 1px solid var(--buttonBackground);
+    color: var(--buttonBackground);
+    cursor: pointer;
+}
