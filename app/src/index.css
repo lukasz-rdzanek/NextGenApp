@@ -1,4 +1,23 @@
-body {
+:root {
+  --buttonBackground: #08AAD7;
+  --buttonColor: #FFF;
+
+  --containerSize: 250px;
+
+  --inputBackgroundColor: #F0F2F6;
+  --inputBorderColor: #000;
+  --inputPlaceholderFontSize: 16px;
+
+  --labelFontSize: 24px;
+}
+
+* {
+  box-sizing: border-box;
   margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
