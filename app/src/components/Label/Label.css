@@ -1,0 +1,6 @@
+.label {
+    display: block;
+    font-size: var(--labelFontSize);
+    padding: 30px 0;
+    width: 100%;
+}
