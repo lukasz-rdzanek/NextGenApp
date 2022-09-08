@@ -11,3 +11,7 @@ Folder stucture:
 * helpers - in this folder there are functions that perform various operations on the input data
 * pages - this folder contains a prepared view of the form
 * shared - this folder contains constants and strings
+
+How run this project? 
+1. Clone this repo, 
+2. Run npm install && npm start.
