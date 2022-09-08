@@ -1,6 +1,4 @@
-
 import "./Label.css";
-
 interface ILabel {
     label: string;
     htmlFor: string;

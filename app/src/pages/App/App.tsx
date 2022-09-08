@@ -2,7 +2,7 @@ import FormScreen from '../FormScreen/FormScreen';
 
 function App() {
   return (
-      <FormScreen />
+    <FormScreen />
   );
 }
 

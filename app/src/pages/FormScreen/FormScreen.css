@@ -1,16 +1,18 @@
 .formContainer {
     align-items: flex-end;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
     margin: 0 auto;
-    width: var(--containerSize);
+    max-width: var(--containerMaximumWidth);
+    width: var(--containerSizeNormal);
 }
 
 .formContainer__input {
     align-items: center;
+    width: 100%;
+}
+
+.formContainer,
+.formContainer__input {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    width: var(--containerSize);
 }

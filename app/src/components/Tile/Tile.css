@@ -1,0 +1,25 @@
+.tile {
+    border-bottom: 1px solid var(--inputBorderColor);
+    margin: 10px 0 20px;
+    width: 100%;
+}
+
+.tile__title {
+    font-size: var(--basicFontSize);
+    margin-bottom: 10px;
+}
+
+.tile__link {
+    color: var(--inputBorderColor);
+    text-decoration: none;
+}
+
+.tile__link:hover {
+    color: var(--buttonBackground);
+}
+
+.tile__description {
+    display: block;
+    font-size: var(--descriptionFontSize);
+    margin-bottom: 20px;
+}

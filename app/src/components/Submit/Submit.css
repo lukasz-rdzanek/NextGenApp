@@ -1,8 +1,9 @@
 .submit {
     background: var(--buttonBackground);
-    border: none;
+    border: 1px solid var(--buttonBackground);
     color: var(--buttonColor);
     margin: 20px 0;
+    max-width: var(--submitButtonMaxWidth);
     padding: 15px 10px;
     width: 40%;
 }
