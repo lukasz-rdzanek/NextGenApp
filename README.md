@@ -1,7 +1,8 @@
 # NextGenApp
 
-Recruitment task from NextGen Coupon Follow
+Recruitment task from NextGen Coupon Follow. CORS must be disabled for proper operation. You can use the command below:
 
+> open /Applications/Google\ Chrome.app --args --user-data-dir="/var/tmp/Chrome dev session" --disable-web-security
 
 Folder stucture: 
 
